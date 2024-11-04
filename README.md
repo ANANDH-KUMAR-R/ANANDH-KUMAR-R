@@ -1,6 +1,7 @@
 # Hello! I'm [Your Name] 👋
+I'm a dedicated Front-End Software Developer with a passion for innovation and growth in the tech industry. With a strong background in HTML, CSS, JavaScript, Bootstrap, and React, I'm currently open to new opportunities where I can contribute to impactful projects, continue learning, and bring value to a dynamic team.
 
-I'm a dedicated [Your Profession, e.g., Software Engineer, Data Scientist] with a passion for innovation and growth in the tech industry. With a strong background in [mention relevant skills or industry], I'm currently open to new opportunities where I can contribute to impactful projects, continue learning, and bring value to a dynamic team.
+#FrontendDeveloper #WebDevelopment #JavaScript #React #Innovation #TechIndustry #CareerOpportunities
 
 ---
 
