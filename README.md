@@ -1,4 +1,4 @@
-# Hello! I'm [Your Name] 👋
+# Hello! I'm **ANANDH KUMAR** 👋
 I'm a dedicated Front-End Software Developer with a passion for innovation and growth in the tech industry. With a strong background in HTML, CSS, JavaScript, Bootstrap, and React, I'm currently open to new opportunities where I can contribute to impactful projects, continue learning, and bring value to a dynamic team.
 
 #FrontendDeveloper #WebDevelopment #JavaScript #React #Innovation #TechIndustry #CareerOpportunities
@@ -6,10 +6,23 @@ I'm a dedicated Front-End Software Developer with a passion for innovation and g
 ---
 
 ### 🛠️ Core Skills
+ **Web Programming Languages:** 
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5) 
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
 
-- **Programming Languages:** ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
-- **Frameworks & Libraries:** ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
-- **Tools & Platforms:** ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker) ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
+  **Frameworks & Libraries:**
+ ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+ ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+ ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)
+
+  
+ **Tools & Platforms:** 
+ ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+ ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=Github)
+ ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
+
 
 ---
 
