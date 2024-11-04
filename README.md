@@ -32,10 +32,9 @@ I'm a dedicated Front-End Software Developer with a passion for innovation and g
 ---
 
 ### 📈 Professional Highlights
-
+- **Education:** Bachelore of Computer Applications (BCA) from KS Rangaswamy College of Arts and Science.
 - **Industry Standard Experience:** Currently pursuming MERN full Stack developement.
 - **Achievements:** Successfully created my own creative portfolio.
-- **Education:** Bachelore of Computer Applications (BCA) from KS Rangaswamy College of Arts and Science.
 - **Professional Interests:** Front-End Siftware Development.
 
 ---
@@ -57,7 +56,6 @@ I am currently seeking full-time roles, freelance projects, or consulting opport
 [![Portfolio](https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=web&logoColor=white)](https://yourwebsite.com)
 [![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:anandh20201@gmail.com.com)
 
----
 
 
 
