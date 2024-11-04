@@ -12,6 +12,11 @@ I'm a dedicated Front-End Software Developer with a passion for innovation and g
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
 
+ **Database Programming Languages:** 
+ ![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-05122A?style=flat&logo=oracle)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+
+
   **Frameworks & Libraries:**
  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
@@ -28,10 +33,10 @@ I'm a dedicated Front-End Software Developer with a passion for innovation and g
 
 ### 📈 Professional Highlights
 
-- **Industry Experience:** Over [X years] in [relevant industries, e.g., tech, finance, healthcare] creating scalable solutions and improving processes.
-- **Achievements:** Successfully [mention a key achievement, e.g., led a team to deploy a high-traffic web app, optimized a machine learning model with X% accuracy].
-- **Education:** [Your Degree] in [Your Field] from [Your University]
-- **Professional Interests:** [List areas of interest, e.g., cloud architecture, backend development, AI, etc.]
+- **Industry Standard Experience:** Currently pursuming MERN full Stack developement.
+- **Achievements:** Successfully created my own creative portfolio.
+- **Education:** Bachelore of Computer Applications (BCA) from KS Rangaswamy College of Arts and Science.
+- **Professional Interests:** Front-End Siftware Development.
 
 ---
 
