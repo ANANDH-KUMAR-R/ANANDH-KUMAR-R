@@ -52,8 +52,8 @@ I'm a dedicated Front-End Software Developer with a passion for innovation and g
 ### 💼 Open to New Opportunities
 I am currently seeking full-time roles, freelance projects, or consulting opportunities. If you’re looking for someone skilled in HTML, CSS, JavaScript, Bootstrap, and React, I’d love to connect! Feel free to reach out to discuss potential opportunities.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/anandh-kumar-b062b8301)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=web&logoColor=white)]([https://yourwebsite.com](https://anandh-kumar-r.github.io/MY-MAIN-PORTFOLIO/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anandh-kumar-b062b8301/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=web&logoColor=white)](https://anandh-kumar-r.github.io/MY-MAIN-PORTFOLIO/)
 [![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:anandh20201@gmail.com.com)
 
 
